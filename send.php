@@ -19,12 +19,12 @@ echo "<br>";
 echo $email;
 echo "<br>";
 echo $comment;
-if (mail("roxamihi@mail-2-you.com", "Заявка с сайта", "ФИО:".$name.". E-mail: ".$email. ". Comment: ".$comment,"From: roxamihi@mail-2-you.com \r\n"))
+if (mail("Taranovaleksey@gmail.com", "Г‡Г ГїГўГЄГ  Г± Г±Г Г©ГІГ ", "Г”Г€ГЋ:".$name.". E-mail: ".$email. ". Comment: ".$comment,"From: Taranovaleksey@gmail.com \r\n"))
 {
-	echo "сообщение успешно отправлено"; 
+	echo "Sended"; 
 } 
 	else 
 { 
-    echo "при отправке сообщения возникли ошибки";
+    echo "Error";
 }
 ?>
