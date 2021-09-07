@@ -1,4 +1,4 @@
-## My first portfolio website
+## My first portfolio webpage
 
 ![main page](readme/figure1.jpg)
 
